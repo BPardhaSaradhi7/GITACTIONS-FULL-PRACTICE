@@ -178,7 +178,7 @@ const Home = () => {
           >
             <h3 style={styles.featureTitle}>Delete Users</h3>
             <p style={styles.featureDescription}>
-              Remove user accounts safely with confirmation prompts and secure operations
+              Remove userss accounts safely with confirmation prompts and secure operations
             </p>
           </div>
         </div>
